@@ -1,39 +1,59 @@
-<h3 align="center">
-  Welcome to Andi Talenta github
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
+# Project Title
 
----
-<div align="center">
-  
-# 💫About Me :
-  
-🌱 I’m currently learning : Python
+A short description about the project and/or client.
 
-  👯 I’m looking to collaborate on my webpage
+## Getting Started
 
-  🤔 I’m Not looking for help
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-  💬 Ask me about for any help
+### Prerequisites
 
-  
+The things you need before installing the software.
 
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+* You need this
+* And you need this
+* Oh, and don't forget this
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+### Installation
 
+A step by step guide that will tell you how to get the development environment up and running.
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+```
+$ First step
+$ Another step
+$ Final step
+```
 
----
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
-</div>
+## Usage
+
+A few examples of useful commands and/or tasks.
+
+```
+$ First example
+$ Second example
+$ And keep this in mind
+```
+
+## Deployment
+
+Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
+
+### Server
+
+* Live:
+* Release:
+* Development:
+
+### Branches
+
+* Master:
+* Feature:
+* Bugfix:
+* etc...
+
+## Additional Documentation and Acknowledgments
+
+* Project folder on server:
+* Confluence link:
+* Asana board:
+* etc...
